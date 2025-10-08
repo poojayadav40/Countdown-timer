@@ -49,7 +49,7 @@ const timerFunction = () => {
     minutesElement.innerText = leftMinute;
     secondsElement.innerText = leftSecond;
 
-    // Stop Set Interval after reaching the target timee
+    // Stop Set Interval after a reaching the target timee
     if (difference < 0) {
       counterTimer.style.display = "None";
       heading.innerText = "Time is Up";
