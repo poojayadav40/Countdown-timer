@@ -57,3 +57,28 @@ https://github.com/user-attachments/assets/76aac175-e068-41b6-bab0-c60007f84bd5
 ├── Index.html            # Core HTML structure
 ├── style.css             # Page styling
 └── README.md             # Project documentation
+
+
+🚀 How to Run Locally
+1. Clone the repository:
+
+git clone [https://github.com/poojayadav40/Countdown-timer.git](https://github.com/poojayadav40/Countdown-timer.git)
+
+
+2. Navigate into the project directory:
+
+cd Countdown-timer
+
+3. Open the app:
+Open Index.html directly in your browser, or use the Live Server extension in Visual Studio Code.
+
+
+💡 Key Learnings
+
+Building this project helped deepen my understanding of:
+
+Calculating target date and time differences using JavaScript Date objects.
+
+Dynamically updating UI elements using setInterval() and DOM manipulation.
+
+Organizing code cleanly across HTML, CSS, and JS files
