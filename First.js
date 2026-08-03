@@ -12,7 +12,7 @@ const second = 1000,
   day = 24 * hour;
 
 const timerFunction = () => {
-  // Taking inputs from user
+  // Taking inputs from userr
   const enteredDay = prompt("Enter Day (DD)", "00").padStart(2, "0");
   const enteredMonth = prompt("Enter Month (MM)", "00").padStart(2, "0");
   const enteredYear = prompt("Enter Year (YYYY)", "0000");
